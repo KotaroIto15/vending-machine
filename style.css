@@ -5,6 +5,10 @@
     margin: 0.2rem;
 }
 
+.link {
+    text-align: center;
+}
+
 .search-btn {
     background-color: navy;
     color: white;
